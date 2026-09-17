@@ -12,4 +12,5 @@ A beginner level Python application that uses SQLite3 to create a database for t
 
 # How To Run
 - Download file
-- Open terminal and use bash python Finance.py
+- Open terminal/command prompt
+- Type 'python Finance.py'
